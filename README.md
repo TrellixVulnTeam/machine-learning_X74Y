@@ -9,17 +9,17 @@
 
 <br>
 
-- #### Meet-ups
+#### Meet-ups
 
-  - [AWSKRUG Meetup - 4/1](/AWSKRUG_ML_Study/Meet-ups/meetup_0401.md)
+- [AWSKRUG Meetup - 4/1](/AWSKRUG_ML_Study/Meet-ups/meetup_0401.md)
 
-- #### Book 
+#### Book 
 
-  - [Dive Into Deep Learning](/Dive-into-Deep-Learning)
+- [Dive Into Deep Learning](/Dive-into-Deep-Learning)
 
-- #### Presentation 
+#### Presentations 
 
-  - [Covariate Shift](/AWSKRUG_ML_Study/Presentation/ML_Covariate_Shift.pdf)
+- [Covariate Shift](/AWSKRUG_ML_Study/Presentation/ML_Covariate_Shift.pdf)
 
 
 
