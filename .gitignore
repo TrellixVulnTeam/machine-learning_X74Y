@@ -1,0 +1,7 @@
+*.bash_history
+
+*.gitconfig
+
+/DO_NOT_COMMIT
+
+
