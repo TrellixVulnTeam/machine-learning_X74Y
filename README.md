@@ -18,8 +18,6 @@ description: >-
 
 * [AWSKRUG Meetup - 4/1](awskrug_ml_study/meet-ups/meetup_0401.md)
 
-
-
 ### Presentations
 
 * [Covariate Shift](https://github.com/chloe-codes1/machine-learning/tree/4fa261fc29468241e0b6b201edeeb2a2ce20d05e/AWSKRUG_ML_Study/Presentation/ML_Covariate_Shift.pdf)
