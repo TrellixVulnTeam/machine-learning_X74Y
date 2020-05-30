@@ -19,7 +19,7 @@
 
 ### Meet-ups
 
-* [AWSKRUG Meetup - 4/1](awskrug_ml_study/meet-ups/meetup_0401.md)
+* [AWSKRUG Meetup - 4/1](/AWSKRUG_ML_Study/Meet-ups/meetup_0401.md)
 
 <br>
 
