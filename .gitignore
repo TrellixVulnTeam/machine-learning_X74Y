@@ -4,6 +4,8 @@
 
 .gitbook
 
+.ipynb_checkpoints
+
 ## venv ##
 .Python
 pyvenv.cfg
