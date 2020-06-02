@@ -15,6 +15,7 @@
 
 * [01. 한눈에 보는 머신러닝](/AWSKRUG_ML_Study/Notes/01_한눈에_보는_머신러닝.md)
 * [02. 머신러닝 프로젝트 처음부터 끝까지](/AWSKRUG_ML_Study/Notes/02_end_to_end_machine_learning_project.ipynb)
+* [03. 분류](03_classification.ipynb)
 
 <br>
 
