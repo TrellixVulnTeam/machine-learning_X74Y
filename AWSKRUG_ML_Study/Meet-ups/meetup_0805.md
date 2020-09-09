@@ -1,10 +1,10 @@
-# AWSKRUG 기계학습 스터디 모임 - 6/3/2020
+# AWSKRUG 기계학습 스터디 모임 - 8/3/2020
 
 <br>
 
 <br>
 
-## 1. Hands-On ML Chapter 3 - 서포트 벡터 머신
+## 1. Hands-On ML Chapter 5 - 서포트 벡터 머신
 
 > 발표자:  김두진님
 
