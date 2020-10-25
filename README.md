@@ -28,6 +28,7 @@
 * [AWSKRUG Meetup (6/3/2020)](/AWSKRUG_ML_Study/Meet-ups/meetup_0603.md)
 * [AWSKRUG Meetup (8/5/2020)](/AWSKRUG_ML_Study/Meet-ups/meetup_0805.md)
 * [AWSKRUG Meetup (9/9/2020)](/AWSKRUG_ML_Study/Meet-ups/meetup_0909.md)
+* [AWSKRUG Meetup (10/7/2020)](/AWSKRUG_ML_Study/Meet-ups/meetup_1007.md)
 
 <br>
 
