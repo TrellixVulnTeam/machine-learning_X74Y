@@ -5,6 +5,7 @@
 .gitbook
 
 .ipynb_checkpoints
+.DS_Store
 
 ## venv ##
 .Python
