@@ -1,7 +1,6 @@
 # Machine Learning
 
->   Repository for notes and data from AWSKRUG (AWS Korea User Group) Machine
->   Learning Meetup
+>   Dive into machine learning
 
 <br>
 
