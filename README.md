@@ -1,6 +1,6 @@
 # Machine Learning
 
->   Dive into machine learning
+> 🤖 Dive into machine learning
 
 <br>
 
