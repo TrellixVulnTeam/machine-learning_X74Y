@@ -45,4 +45,6 @@
 
 > 한국어 임베딩 (Sentence Embeddings Using Korean Corpora)을 공부하며 정리한 내용
 
+- [NLP 용어 사전](embedding/NLP_용어_사전.md)
 - [1장 - 서론](embedding/1장_서론.md)
+
